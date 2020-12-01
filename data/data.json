@@ -1,0 +1,22 @@
+[
+  {
+    "site": "npr",
+    "link": "https://www.jd.com",
+    "type": "rss"
+  },
+  {
+    "site": "cnn",
+    "link": "https://fanyi.baidu.com",
+    "type": "rss"
+  },
+  {
+    "site": "foxnews",
+    "link": "https://www.sina.com.cn/",
+    "type": "rss"
+  },
+  {
+    "site": "nbcnews",
+    "link": "https://sh.58.com",
+    "type": "rss"
+  }
+]
